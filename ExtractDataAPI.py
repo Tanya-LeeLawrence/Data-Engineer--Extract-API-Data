@@ -13,7 +13,7 @@ def get_exchange_rates(api_url):
         return None
 
 # URL for the exchange rates API
-api_url = "https://api.exchangerate-api.com/v4/latest/USD"  # Replace with actual API endpoint
+api_url = "http://api.exchangeratesapi.io/v1/latest?base=EUR&access_key=341069d37f1e2b524bbf51ef28196349"  #Make sure to change ******* to your API key.
 
 # Fetch the exchange rates data
 exchange_data = get_exchange_rates(api_url)

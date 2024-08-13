@@ -1,0 +1,6 @@
+2024-08-13 10:34:27: API Data Extract Job Started
+2024-08-13 10:34:27: Data fetched and saved to CSV
+2024-08-13 10:34:27: API Data Extract Job Ended
+2024-08-13 10:42:29: API Data Extract Job Started
+2024-08-13 10:42:29: Data fetched and saved to CSV
+2024-08-13 10:42:29: API Data Extract Job Ended
